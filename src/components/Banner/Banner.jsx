@@ -7,7 +7,7 @@ const Banner = () => (
 			<p className={styles.content}>
 				NEW YEAR<span>SALE</span>
 			</p>
-			<button className={styles.more}>See mв ore</button>
+			<button className={styles.more}>See more</button>
 		</div>
 		<div
 			className={styles.right}
